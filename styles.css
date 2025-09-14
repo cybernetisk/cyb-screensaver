@@ -6,8 +6,6 @@ body {
 }
 img {
       position: absolute;
-      width: 180px;
-      height: 79px;
-          filter: invert(100%);
-
+      width: 75px;
+      height: 100px;
     }
